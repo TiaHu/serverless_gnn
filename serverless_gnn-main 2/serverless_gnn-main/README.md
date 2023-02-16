@@ -2,6 +2,8 @@
 
 Rank 0 train on GPU, the rest train on GPU too.
 
+cd ..
+
 python run/partition.py
 
 python run/generate_bash.py
