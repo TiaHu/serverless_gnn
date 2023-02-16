@@ -1,0 +1,6 @@
+defaults:
+  - model: gcn
+  - dataset: products
+device: 0
+root: '/home/ubuntu/data/'
+log_every: 1
